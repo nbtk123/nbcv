@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Sep 23 02:52:20 IDT 2018
+0.baseType=DIRECTORY
+0.base=/mnt/hgfs/projects/nbcv/jobs/build/intermediates/transforms/dexMerger/feature/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
