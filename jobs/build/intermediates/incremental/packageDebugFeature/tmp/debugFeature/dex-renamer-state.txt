@@ -1,4 +1,0 @@
-#Sun Sep 23 02:52:19 IDT 2018
-base.0=/mnt/hgfs/projects/nbcv/jobs/build/intermediates/transforms/dexMerger/feature/debug/0
-path.0=classes.dex
-renamed.0=classes.dex

@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/mnt/hgfs/projects/nbcv/jobs/src/main/assets"/><source path="/mnt/hgfs/projects/nbcv/jobs/build/generated/assets/shaders/feature/debug"/></dataSet><dataSet config="debug"><source path="/mnt/hgfs/projects/nbcv/jobs/src/debug/assets"/></dataSet></merger>
